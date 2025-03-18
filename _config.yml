@@ -10,7 +10,7 @@ url: http://amoolyasrinivasa.github.io
 # your url: http://USERNAME.github.io (if you don't already have a site)
 
 permalink: /:title/
-theme: jekyll-theme-merlot
+theme: jekyll-theme-chirpy
 markdown: kramdown
 highlighter: rouge # other options?
 
