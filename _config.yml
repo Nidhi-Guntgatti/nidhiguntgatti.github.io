@@ -56,7 +56,7 @@ cv: true
 projects: true
 modalities: false
 maverick: false
-research: true
+publications: true
 bookshelf: false
 
 # do you want to show the "read time" of the posts?
