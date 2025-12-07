@@ -6,9 +6,10 @@ permalink: /blog/index.html
 
 <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
 
-![greeting gif](/assets/images/greeting.gif)
+![greeting gif]({{ "/assets/images/greeting.gif" | relative_url }})
 
--- **About me**
+
+---  **About me**
 
 
 I am currently working as a Bioinformatics Research Intern at the Central Research Laboratory (CRL), where I focus on the genomic analysis of mobile genetic element (MGE)–driven antimicrobial resistance (AMR) of Acinetobacter baumannii using whole-genome sequencing (WGS) data. My role involves applying computational and analytical approaches to investigate the genetic mechanisms underlying resistance acquisition, with particular emphasis on identifying MGEs, resistance determinants, and their evolutionary patterns across clinical isolates.
