@@ -3,12 +3,10 @@ title: About
 layout: page
 permalink: /blog/index.html
 ---
-<div class="about-content">
+
 <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
 
-<img src="https://nidhi-guntgatti.github.io/assets/images/greeting.gif" 
-     alt="greeting gif" 
-     style="width: 100%; max-width: 600px; height: auto;" />
+<img src="/assets/images/greeting.gif" alt="Hi!" class="about-gif" />
 
 ---  **About me**
 
