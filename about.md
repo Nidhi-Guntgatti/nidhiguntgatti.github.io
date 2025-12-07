@@ -4,7 +4,7 @@ layout: page
 permalink: /blog/index.html
 ---
 
-<img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
+# <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
 
 ![greeting gif](https://nidhi-guntgatti.github.io/assets/images/greeting.gif)
 
