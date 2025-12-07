@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-permalink: /about/
+permalink: /blog/index.html
 ---
 
 <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
