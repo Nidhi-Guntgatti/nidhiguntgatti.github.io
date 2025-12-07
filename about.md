@@ -6,7 +6,7 @@ permalink: /blog/index.html
 
 <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
 
-![greeting gif]({{ "/assets/images/greeting.gif" | relative_url }})
+![greeting gif](/assets/images/greeting.gif)
 
 
 ---  **About me**
