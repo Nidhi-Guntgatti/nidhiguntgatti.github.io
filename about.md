@@ -4,7 +4,7 @@ layout: page
 permalink: /about/index.html
 ---
 
-![greeting gif](/assets/images/greeting.gif)
+![greeting gif](/assets/images/about_greeting.gif)
 
 ---  **About me**
 
