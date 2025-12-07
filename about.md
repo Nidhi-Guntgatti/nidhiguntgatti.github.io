@@ -4,7 +4,7 @@ layout: page
 permalink: /about/index.html
 ---
 
-<img src="https://raw.githubusercontent.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/main/assets/images/about_greeting.gif" width="400px">
+<img src="https://raw.githubusercontent.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/main/assets/images/about_greeting.gif" width="600px">
 
 ---  **About me**
 
