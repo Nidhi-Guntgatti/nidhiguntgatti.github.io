@@ -6,7 +6,9 @@ permalink: /blog/index.html
 
 <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
 
-![greeting gif](/assets/images/greeting.gif)
+<img src="https://nidhi-guntgatti.github.io/assets/images/greeting.gif" 
+     alt="greeting gif"
+     width="300" />
 
 
 ---  **About me**
