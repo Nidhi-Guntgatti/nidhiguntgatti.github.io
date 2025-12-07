@@ -3,7 +3,12 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-
+<style>
+img {
+  width: 400px !important;
+  height: auto !important;
+}
+</style>
 <img src="https://raw.githubusercontent.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/main/assets/images/about_greeting.gif" width="400">
 
 ---  **About me**
