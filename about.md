@@ -17,14 +17,14 @@ Previously, I completed my Bachelor’s degree in Biotechnology, during which I 
 
 My interdisciplinary background enables me to integrate computational analysis with biological insight, and I am motivated to contribute to impactful research at the intersection of bioinformatics, microbiology, and translational science.
 
-Beyond the lab, I love exploring food, reading about different cultures, and learning Turkish. I’m also an avid reader, continuously curious about stories, ideas, and histories from around the world
+Beyond the lab, I love exploring food, reading about different cultures, and learning Turkish. I’m also an avid reader, continuously curious about stories, ideas, and histories from around the world.
 
 <!---  in the biopharmaceutical industry developing machine learning models to predict (1) [off-targeting in gene silencing/editing](https://en.calameo.com/read/0041626681a7296f0e0a8) and (2) [drug-target interactions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5166585/).-->
 
 
-# ---**Photo Frolics**
+ ---**Photo Frolics**
 
-# <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="{{site.url}}/assets/images/bbq.jpg" style="border:none; width:auto; max-height:200px;" />
      <img src="{{site.url}}/assets/images/grad.jpg" style="border:none; width:auto; max-height:200px;" />
     <img src="{{site.url}}/assets/images/bowl.jpg" style="border:none; width:auto; max-height:200px;" />
