@@ -1,12 +1,12 @@
 # main text of home
-name: Amoolya Srinivasa
-bio: 'Bioinformatics Programmer at NYU Langone Health'
+name: Nidhi Anil Guntgatti
+bio: 'Bioinformatics Research Intern at Central Research Laboratory'
  
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/Amoolya.jpg'
 
-url: http://amoolyasrinivasa.github.io
+url: http://nidhiguntgatti.github.io
 # your url: http://USERNAME.github.io (if you don't already have a site)
 
 permalink: /:title/
@@ -31,9 +31,9 @@ disqus: false
 # pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
-linkedin: amoolya-srinivasa
-github: amoolyasrinivasa
-email: amoolyasrinivasa@gmail.com
+linkedin: nidhi-anil-guntgatti
+github: nidhiguntgatti
+email: nidhiguntgatti@gmail.com
 #gscholar: O4Hrt44AAAAJ&hl=en
 #medium: medium
 #vimeo: myvimeo
@@ -56,7 +56,7 @@ cv: true
 projects: true
 modalities: false
 maverick: false
-publications: true
+publications: false
 bookshelf: false
 
 # do you want to show the "read time" of the posts?
